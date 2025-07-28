@@ -2,7 +2,7 @@
   "crons": [
     {
       "path": "/api/j15-ping",
-      "schedule": "*/10 * * * *"
+      "schedule": "0 12 * * *"
     }
   ]
 }
